@@ -1,0 +1,287 @@
+*{
+
+padding: 0;
+margin: 0;
+
+
+
+}
+
+
+
+.header{
+
+background-color: yellow;
+padding: 30px;
+align-items: center;
+padding-top: 45px;
+
+}
+
+.title{
+
+text-align: left;
+padding-left: 25px;
+font-family: 'Abril Fatface', cursive;
+font-size: 45px;
+cursor: pointer;
+display: inline;
+color: black;
+text-decoration-line: none;
+
+}
+
+
+
+
+
+
+.enlaces{
+
+text-align: right;
+font-size: 20px;
+margin-right: 25px;
+
+
+}
+
+.parrafo{
+
+font-size: 35px;
+color: blue;
+text-align: center;
+padding-top: 25px;
+padding-bottom: 30px;
+}
+
+.row{
+
+
+text-align: center;
+align-items: center;
+justify-content: space-around;
+margin-top: 55px;
+margin-bottom: 55px;
+}
+
+.img{
+
+width: 300px;
+height: 500px;
+filter: brightness(1.1);
+mix-blend-mode: multiply;
+
+
+}
+
+
+
+.col-md-4{
+
+border: solid black 1px;
+margin: 50px;
+width: 350px;
+height: 550px;
+
+
+
+}
+
+
+
+.button{
+
+margin-left: 250px;
+padding: 5px;
+
+
+}
+
+.row_2{
+
+
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 55px;
+    margin-bottom: 55px;
+    }
+
+
+    .img_2{
+
+        width: 300px;
+        height: 500px;
+        filter: brightness(1.1);
+        mix-blend-mode: multiply;
+        
+        
+        }
+
+.parrafo_2{
+
+    font-size: 35px;
+    color: blue;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 30px;
+
+}
+
+.guitar_icon{
+
+width: 80px;
+height: 80px;
+
+
+}
+
+.search_barra{
+
+
+width: 200px;
+text-align: center;
+
+
+}
+
+.search_barra_boton{
+
+width: 80px;
+
+
+
+}
+
+.container_footer{
+
+background-color: lightgray;
+text-align: center;
+padding: 50px;
+
+
+}
+
+.fotos{
+
+width: 50px;
+text-align: center;
+
+
+
+}
+
+.section_footer_pages{
+
+margin-top: 100vh;
+
+}
+
+.title_contacto{
+
+text-align: center;
+color: blue;
+font-size: 35px;
+padding-top: 50px;
+
+
+}
+
+.title_sobrenosotros{
+    padding-top: 50px;
+    text-align: center;
+    color: blue;
+    font-size: 35px;
+    
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:480px){
+
+*{
+
+padding: 0;
+margin: 0;
+
+}
+
+.header{
+
+padding-bottom: 5px;
+
+
+}
+
+.title{
+margin: 0%;
+font-size: 35px;
+font-family: 'Abril Fatface', cursive;
+text-align: center;
+
+
+
+}
+
+.enlaces{
+
+font-size: 15px;
+text-align: center;
+
+
+
+}
+
+.parrafo{
+
+font-size: 25px;
+
+
+}
+
+.parrafo_2{
+
+font-size: 25px;
+
+}
+
+
+
+.guitar_icon{
+
+width: 50px;
+height: 50px;
+
+
+
+}
+
+.title_contacto{
+
+font-size: 25px;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+}
